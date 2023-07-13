@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66da06ed-ed5b-4b65-8e97-b807e0785734" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaesarCipher.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cipher.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decryption.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Caesar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaesarCipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaesarDecryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/Cipher.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/CiphersTestProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/Decrypt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/Text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/alphabet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/src/Beta/CBeta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/src/Beta/CCDWBeta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/src/Beta/CCWBeta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/src/Beta/CaesarClassesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/src/CaesarCipher/CCDWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/src/CaesarCipher/CCExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/src/CaesarCipher/CCWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/src/CaesarCipher/Caesar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/src/CaesarCipher/CaesarCipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/src/CaesarCipher/CaesarCipherDecryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/src/CaesarCipher/backup1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CiphersTestProject/src/CaesarCipher/backup2.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2S5EUPAhkpWONVVlXzYg9og4fWL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Example">
+    <configuration name="CaesarTestExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaesarTestExample" />
+      <module name="CaesarCipher" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example" />
+      <module name="CaesarCipher" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.CaesarTestExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66da06ed-ed5b-4b65-8e97-b807e0785734" name="Changes" comment="" />
+      <created>1688428059394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688428059394</updated>
+      <workItem from="1688428060455" duration="467000" />
+      <workItem from="1688840383791" duration="3811000" />
+      <workItem from="1688937903253" duration="84000" />
+      <workItem from="1689183478533" duration="1329000" />
+      <workItem from="1689237962310" duration="1743000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
