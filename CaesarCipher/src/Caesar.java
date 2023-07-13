@@ -5,7 +5,7 @@ import java.util.stream.Stream;
 
 public abstract class Caesar {
     private static final String characters = "abcdefghijklmnopqrstuvwxyz";
-    private List<String> alphabet = Arrays.asList(characters.split(""));
+    private final List<String> alphabet = Arrays.asList(characters.split(""));
 
     public List<String> splittedText(String text) {
         return List.of(text.toLowerCase().split(" "));
